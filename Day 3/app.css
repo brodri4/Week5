@@ -1,0 +1,9 @@
+.center{
+    text-align: center;
+    margin: 15px 0px 15px 0px
+}
+
+.centerInput{
+display: block;
+margin : 0 auto;
+}
