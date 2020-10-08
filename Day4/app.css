@@ -1,0 +1,19 @@
+.center{
+    text-align: center;
+    margin: 15px 0px 15px 0px
+}
+
+.centerInput{
+display: block;
+margin : 5px auto;
+}
+
+body{
+    background-color: rgb(171, 171, 226);
+}
+
+.list{
+    background-color: rgb(171, 171, 226);
+    border-width: 5px;
+    margin: 20px 20px 20px 20px;
+}
